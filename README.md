@@ -14,7 +14,7 @@ $ php hamiltonian-path-problem.php
 
 If your start city is `Kashan` and you want to visit all cities only once and again back to `Kashan`.
 
-```
+```php
 $cities = [];
 $cities[] = ["name" => "kashan", "points" => [0, 0]];
 $cities[] = ["name" => "tehran", "points" => [1, 1]];
