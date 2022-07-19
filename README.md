@@ -2,7 +2,7 @@
 
 > Find a Hamiltonian path in a graph.
 
-Implement a Hamiltonian path algorithm, Designing a tour for visiting all cities of a country. (PHP)
+Implement a Hamiltonian path algorithm, and Design a tour for visiting all cities of a country. (PHP)
 
 ### Using
 
